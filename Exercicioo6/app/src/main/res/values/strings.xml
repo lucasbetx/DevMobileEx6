@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Exercicioo6</string>
+    <string name="activity_3">Activity 3</string>
+    <string name="activity_2">Activity 2</string>
+    <string name="attach">Attach</string>
+    <string name="settings">Settings</string>
+
+
+    <string-array name="Chevrolet_nomes">
+        <item>Corsa</item>
+        <item>Classic</item>
+        <item>Vectra</item>
+        <item>Celta</item>
+        <item>Onix</item>
+    </string-array>
+
+    <string-array name="fiat_nomes">
+        <item>Fox</item>
+        <item>Voyage</item>
+        <item>Saveiro</item>
+        <item>Gol</item>
+        <item>Up</item>
+    </string-array>
+
+    <string-array name="renault_nomes">
+        <item>Sandero</item>
+        <item>Kwid</item>
+        <item>Logan</item>
+        <item>Duster</item>
+        <item>Clio</item>
+    </string-array>
+    
+    <string-array name="marcas_aleatorias">
+        <item>Citroen C3</item>
+        <item>Peugeout 207</item>
+        <item>Audi A3</item>
+        <item>Nissan Kicks</item>
+        <item>Jeep Renegade</item>
+    </string-array>
+    
+    
+
+
+</resources>
