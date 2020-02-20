@@ -1,2 +1,1 @@
-# exercicio6
-exercicio6
+Exercicio 6 - Aula de Dispositivos Móveis
